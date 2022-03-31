@@ -1,0 +1,10 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "My-PWA-APP",
+        "package_name": "xyz.appmaker.lkfrdo",
+        "sha256_cert_fingerprints": ["5E:B5:25:E9:60:61:D9:F3:73:61:BE:A5:D4:49:18:C4:39:2F:3F:2F:11:F3:D9:BD:F6:6A:D9:D1:6D:E1:F6:70"]
+      }
+    }
+  ]
