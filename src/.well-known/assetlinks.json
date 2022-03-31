@@ -1,10 +1,10 @@
 [
-    {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "My-PWA-APP",
-        "package_name": "xyz.appmaker.lkfrdo",
-        "sha256_cert_fingerprints": ["5E:B5:25:E9:60:61:D9:F3:73:61:BE:A5:D4:49:18:C4:39:2F:3F:2F:11:F3:D9:BD:F6:6A:D9:D1:6D:E1:F6:70"]
-      }
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.yqbamt",
+      "sha256_cert_fingerprints": ["58:84:7E:CA:DC:1A:60:47:33:9E:C5:7A:FA:97:CB:AA:EA:D5:B4:82:BC:BD:93:D3:6F:A2:AE:CF:35:CF:D7:67"]
     }
-  ]
+  }
+]
